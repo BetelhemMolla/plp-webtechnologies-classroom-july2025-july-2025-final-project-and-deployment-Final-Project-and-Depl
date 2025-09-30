@@ -44,7 +44,6 @@ The website is deployed via **GitHub Pages**:
 
 **Live URL:** [https://BetelhemMolla.github.io/portfolio-website/](https://BetelhemMolla.github.io/portfolio-website/)
 
-**Optional:** You can also deploy on **Netlify** or **Vercel** if you prefer a custom domain or faster CI/CD deployment.
 
 ---
 
